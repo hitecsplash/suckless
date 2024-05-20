@@ -14,3 +14,5 @@ cd ../st
 sudo make clean install
 cd ../slstatus
 sudo make clean install
+
+sudo reboot
