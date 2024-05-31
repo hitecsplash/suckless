@@ -13,6 +13,5 @@ st/st.h.orig
 st/st.o
 st/x.c.orig
 st/x.o
-slstatus/components/*
 slstatus/slstatus
 slstatus/slstatus.o
